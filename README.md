@@ -12,7 +12,7 @@ A simple and user-friendly Chrome extension that helps you pick and copy colors 
 ├── manifest.json          # Chrome extension configuration  
 ├── script.js              # Logic for the popup functionality  
 ├── index.html             # HTML structure for the extension's 
-├── style.css              # Styles for the popup UI                
+├── style.css              # Styles for the popup UI          
 └── README.md              # Documentation (you’re reading it now!)  
 
 🔧 Usage
